@@ -1,1 +1,4 @@
-Welcome to project
+Welcome to project 
+
+Contributors Guide
+===============================
